@@ -1,0 +1,11 @@
+c:\users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\bin\Debug\BackupScript1.exe.config
+c:\users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\bin\Debug\BackupScript1.exe
+c:\users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\bin\Debug\BackupScript1.pdb
+c:\users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\obj\Debug\BackupScript1.csprojResolveAssemblyReference.cache
+c:\users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\obj\Debug\BackupScript1.exe
+c:\users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\obj\Debug\BackupScript1.pdb
+c:\users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\bin\Debug\objList.txt
+C:\Users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\bin\Debug\BackupScript1.exe.manifest
+C:\Users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\bin\Debug\BackupScript1.application
+C:\Users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\obj\Debug\BackupScript1.exe.manifest
+C:\Users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScript1\obj\Debug\BackupScript1.application
