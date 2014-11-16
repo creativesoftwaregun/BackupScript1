@@ -12,3 +12,11 @@ C:\Users\eempuert\documents\visual studio 2012\Projects\BackupScript1\BackupScri
 C:\Github\BackupScript1\BackupScript1\bin\Debug\BackupScript1.exe.config
 C:\Github\BackupScript1\BackupScript1\obj\Debug\BackupScript1.exe
 C:\Github\BackupScript1\BackupScript1\obj\Debug\BackupScript1.pdb
+C:\Github\BackupScript1\BackupScript1\bin\Debug\ObjList.txt
+C:\Github\BackupScript1\BackupScript1\bin\Debug\BackupScript1.exe.manifest
+C:\Github\BackupScript1\BackupScript1\bin\Debug\BackupScript1.application
+C:\Github\BackupScript1\BackupScript1\bin\Debug\BackupScript1.exe
+C:\Github\BackupScript1\BackupScript1\bin\Debug\BackupScript1.pdb
+C:\Github\BackupScript1\BackupScript1\obj\Debug\BackupScript1.csprojResolveAssemblyReference.cache
+C:\Github\BackupScript1\BackupScript1\obj\Debug\BackupScript1.exe.manifest
+C:\Github\BackupScript1\BackupScript1\obj\Debug\BackupScript1.application
